@@ -1,1 +1,1 @@
-# TASKS-1
+Declaring a variable,assiging values and printing values the valus
